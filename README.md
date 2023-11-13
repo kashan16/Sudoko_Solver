@@ -21,7 +21,7 @@ The Sudoku Solver is a C++ program designed to solve Sudoku puzzles efficiently.
 ## How to Clone
 
 ```bash
-git clone
+git clone https://github.com/kashan16/Sudoko_Solver.git
 ```
 
 ### How to Compile
