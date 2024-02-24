@@ -4,7 +4,7 @@
 
 ## Overview
 
-The Sudoku Solver is a C++ program designed to solve Sudoku puzzles efficiently. The program takes an incomplete Sudoku grid as input and employs backtracking to fill in the missing numbers, following the rules of Sudoku. This project is a great tool for Sudoku enthusiasts who want to quickly solve puzzles or verify solutions.
+The Sudoku Solver is a program designed to solve Sudoku puzzles efficiently. The program takes an incomplete Sudoku grid as input and employs backtracking to fill in the missing numbers, following the rules of Sudoku. This project is a great tool for Sudoku enthusiasts who want to quickly solve puzzles or verify solutions.
 
 ## Features
 
@@ -17,6 +17,7 @@ The Sudoku Solver is a C++ program designed to solve Sudoku puzzles efficiently.
 ### Prerequisites
 
 - C++ compiler
+- JVM
 
 ## How to Clone
 
@@ -31,6 +32,12 @@ Compile the program using your C++ compiler. For example, using g++:
 ```bash
 g++ SudokuSolver.cpp -o SudokuSolver
 ```
+Compile the program using JVM.
+
+```bash
+javac SudokuSolver.java
+```
+
 
 ### How to Run
 
@@ -39,6 +46,13 @@ Run the compiled executable:
 ```bash
 ./SudokuSolver
 ```
+
+RUN JAVA CODE
+
+```bash
+java SudokuSolver
+```
+
 
 ## Usage
 
